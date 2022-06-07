@@ -1,7 +1,7 @@
 # MartaMoods
 
-Practica 3 de la asignatura Creación Multimedia Interactiva de clase Grupo R
-Universidad de Granada, Grado en Bellas Artes 2021-22
+Una práctica de la asignatura Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
+
 profesor: Luis G. Baca Ruiz
 Realizado por: Yee Sern, Goh
 
